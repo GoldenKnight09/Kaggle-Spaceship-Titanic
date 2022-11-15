@@ -5,6 +5,6 @@ This repository contains analysis of the Spaceship Titanic disaster from Kaggle.
 (One drawback from classifying a portion of the data from the original Titanic disaster was that since it was a historic event there were records which allowed for determination with perfect accuracy which passengers survived and which did not.)
 
 ### Contents (each part consists of a Jupyter Notebook using a Python kernel):
-- Exploratory Data Analysis
+- [Exploratory Data Analysis](https://github.com/GoldenKnight09/Kaggle-Spaceship-Titanic/blob/main/Exploratory%20Data%20Analysis.ipynb)
 - Feature Imputation & Encoding
 - Machine Learning Analysis
