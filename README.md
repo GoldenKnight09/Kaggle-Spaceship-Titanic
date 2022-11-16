@@ -6,5 +6,5 @@ This repository contains analysis of the Spaceship Titanic disaster from Kaggle.
 
 ### Contents (each part consists of a Jupyter Notebook using a Python kernel):
 - [Exploratory Data Analysis](https://github.com/GoldenKnight09/Kaggle-Spaceship-Titanic/blob/main/Exploratory%20Data%20Analysis.ipynb)
-- Feature Imputation & Encoding
+- [Feature Imputation & Encoding](https://github.com/GoldenKnight09/Kaggle-Spaceship-Titanic/blob/main/Feature%20Imputation%20%26%20Encoding.ipynb)
 - Machine Learning Analysis
