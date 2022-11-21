@@ -18,3 +18,5 @@ Data analysis suggested the features that influenced whether a passenger was tra
 - Passenger expenditures
   
 The data analysis did not however, reveal how significantly each feature influenced the response. However, based on intuition, it is plausible that cabin location (e.g. cabin deck) should be a key feature (as it was in the original Titanic disaster). With this in mind, many of the features in the above list may be indicative or correlated with cabin location (for example, the passenger's home planet greatly influenced which deck the passenger cabin would be on).
+
+A random forest classifier (with parameter tuning) was found to be the most accurate model to predict the test set response, with a success rate of 79.42%.
